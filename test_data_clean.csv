@@ -1,0 +1,11 @@
+fuel_type,fuel_qty,energy_kwh,hours,industry_type
+Diesel,347,2768,4,Manufacturing
+Diesel,328,2034,9,Automobile
+Natural Gas,1605,5477,10,Textile
+Natural Gas,1244,7603,6,Automobile
+Natural Gas,737,7005,8,Paper
+Diesel,1175,2295,9,Textile
+Diesel,781,4916,15,Manufacturing
+Coal,416,1757,19,Paper
+Coal,1192,2969,11,Paper
+Natural Gas,1259,5243,4,Textile

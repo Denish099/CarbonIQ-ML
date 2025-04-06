@@ -1,0 +1,201 @@
+fuel_type,fuel_qty,energy_kwh,hours,industry_type,emission_kg,severity
+Diesel,182,7307,21,Chemical,3958.59,Low
+Coal,1954,8958,12,Manufacturing,9843.49,Medium
+Natural Gas,445,6596,14,Textile,3978.6,Low
+Coal,482,4315,22,Manufacturing,3428.14,Low
+Coal,1139,8407,15,Chemical,7250.86,Medium
+Natural Gas,811,632,12,Chemical,1841.1,Low
+Coal,1008,9781,21,Manufacturing,7528.85,Medium
+Diesel,853,1322,7,Automobile,2913.99,Low
+Natural Gas,1066,9335,8,Manufacturing,6459.52,Medium
+Coal,1213,5363,18,Manufacturing,6016.6,Medium
+Natural Gas,1633,1775,18,Paper,3945.82,Low
+Diesel,619,4423,6,Textile,3759.84,Low
+Coal,1422,5573,8,Textile,6714.09,Medium
+Diesel,843,6153,16,Manufacturing,5181.91,Medium
+Natural Gas,1626,2506,19,Textile,4279.75,Low
+Coal,1758,6306,8,Textile,8023.23,Medium
+Diesel,990,807,19,Paper,3036.53,Low
+Coal,299,9488,24,Textile,5361.94,Medium
+Diesel,652,2397,12,Textile,2885.94,Low
+Diesel,1222,4933,9,Textile,5618.14,Medium
+Natural Gas,148,812,19,Automobile,666.9,Low
+Natural Gas,1645,9825,16,Automobile,7792.38,Medium
+Diesel,1738,8568,17,Automobile,8727.64,Medium
+Natural Gas,375,4596,11,Manufacturing,2895.6,Low
+Natural Gas,198,4388,7,Chemical,2460.5,Low
+Coal,530,3924,24,Automobile,3379.7,Low
+Coal,1133,2437,24,Paper,4397.95,Low
+Coal,727,3982,10,Textile,3970.67,Low
+Coal,1316,3149,7,Manufacturing,5259.53,Medium
+Diesel,1303,3784,7,Textile,5289.44,Medium
+Coal,721,5308,11,Automobile,4583.36,Low
+Diesel,1883,7964,18,Chemical,8829.34,Medium
+Natural Gas,713,7330,10,Chemical,4836.45,Low
+Coal,782,3862,4,Paper,4070.97,Low
+Diesel,1543,6106,22,Textile,7035.59,Medium
+Diesel,1235,3574,8,Manufacturing,5007.45,Medium
+Diesel,1350,9948,16,Manufacturing,8343.3,Medium
+Natural Gas,793,7401,9,Paper,5022.17,Medium
+Diesel,508,4117,9,Chemical,3317.01,Low
+Diesel,1919,2889,23,Chemical,6515.19,Medium
+Coal,1765,9003,20,Textile,9324.33,Medium
+Natural Gas,644,9376,11,Automobile,5677.2,Medium
+Natural Gas,1486,8894,14,Textile,7048.05,Medium
+Natural Gas,466,9823,11,Automobile,5551.32,Medium
+Coal,1148,5801,9,Paper,6038.75,Medium
+Natural Gas,1080,9251,10,Chemical,6446.22,Medium
+Natural Gas,1087,8164,21,Chemical,5943.2,Medium
+Diesel,540,1724,17,Manufacturing,2266.1,Low
+Diesel,1362,7125,8,Automobile,7034.53,Medium
+Coal,589,2713,13,Chemical,2973.22,Low
+Natural Gas,1725,7475,5,Manufacturing,6828.12,Medium
+Coal,1858,6161,24,Manufacturing,8240.35,Medium
+Coal,1023,8971,15,Textile,7187.0,Medium
+Coal,239,8304,4,Automobile,4627.94,Low
+Diesel,1615,9494,18,Chemical,8837.85,Medium
+Diesel,319,9921,22,Manufacturing,5567.39,Medium
+Natural Gas,1245,7605,18,Chemical,5977.88,Medium
+Natural Gas,910,7005,7,Manufacturing,5056.38,Medium
+Natural Gas,480,2685,11,Textile,2187.38,Low
+Diesel,1394,8545,18,Paper,7794.8,Medium
+Coal,1784,5276,6,Paper,7608.34,Medium
+Diesel,1283,3497,23,Chemical,5099.51,Medium
+Diesel,1533,833,13,Manufacturing,4504.12,Low
+Coal,1620,1273,23,Chemical,5237.88,Medium
+Natural Gas,1635,7932,18,Automobile,6874.2,Medium
+Natural Gas,609,6533,7,Chemical,4260.27,Low
+Diesel,1193,8254,4,Paper,7117.89,Medium
+Natural Gas,479,4176,17,Chemical,2893.7,Low
+Natural Gas,1658,9597,9,Manufacturing,7708.77,Medium
+Coal,1199,6960,14,Automobile,6735.14,Medium
+Natural Gas,1997,8946,13,Automobile,8043.65,Medium
+Coal,1387,3612,20,Manufacturing,5682.52,Medium
+Natural Gas,1714,9523,19,Paper,7780.02,Medium
+Coal,889,661,12,Chemical,2856.51,Low
+Coal,1454,9821,4,Manufacturing,8823.41,Medium
+Natural Gas,707,5318,11,Paper,3869.35,Low
+Natural Gas,799,1703,14,Automobile,2327.02,Low
+Diesel,468,2445,18,Manufacturing,2415.61,Low
+Diesel,1369,9004,16,Automobile,7945.82,Medium
+Natural Gas,573,6784,24,Chemical,4311.1,Low
+Diesel,557,7084,9,Paper,4857.66,Low
+Natural Gas,1445,4339,15,Automobile,4806.52,Low
+Natural Gas,500,4483,9,Textile,3079.42,Low
+Diesel,1593,8736,7,Manufacturing,8418.84,Medium
+Coal,854,9207,4,Chemical,6815.76,Medium
+Natural Gas,904,2907,11,Paper,3098.43,Low
+Coal,821,1793,20,Chemical,3199.73,Low
+Diesel,534,1158,5,Manufacturing,1981.17,Low
+Diesel,904,970,8,Textile,2883.47,Low
+Coal,1505,3080,22,Chemical,5767.3,Medium
+Coal,974,4760,14,Manufacturing,5046.64,Medium
+Diesel,647,9785,23,Chemical,6381.84,Medium
+Diesel,1585,3146,17,Chemical,5742.15,Medium
+Diesel,124,8797,4,Automobile,4510.89,Low
+Coal,1266,7982,11,Automobile,7412.21,Medium
+Diesel,1865,956,20,Chemical,5452.3,Medium
+Diesel,1405,1802,16,Manufacturing,4621.35,Low
+Diesel,800,7456,18,Manufacturing,5685.6,Medium
+Diesel,825,6073,14,Textile,5095.67,Medium
+Coal,1321,9790,4,Paper,8428.31,Medium
+Diesel,1097,7101,22,Textile,6312.93,Medium
+Coal,1711,1267,24,Manufacturing,5495.28,Medium
+Coal,1586,8780,7,Automobile,8706.46,Medium
+Diesel,642,8820,23,Manufacturing,5910.06,Medium
+Natural Gas,332,6715,6,Paper,3820.43,Low
+Coal,1159,9088,4,Chemical,7631.54,Medium
+Coal,212,9245,21,Manufacturing,4997.69,Low
+Natural Gas,1946,3425,9,Paper,5324.27,Medium
+Diesel,1944,4237,9,Chemical,7222.49,Medium
+Natural Gas,603,2273,7,Chemical,2225.38,Low
+Coal,959,1394,10,Manufacturing,3404.89,Low
+Coal,1297,3707,23,Textile,5470.24,Medium
+Diesel,1808,920,6,Paper,5282.44,Medium
+Natural Gas,105,2619,22,Paper,1443.52,Low
+Diesel,1083,5554,14,Manufacturing,5540.59,Medium
+Diesel,1782,6958,10,Automobile,8080.81,Medium
+Coal,1620,1173,14,Textile,5190.38,Medium
+Diesel,510,6472,13,Textile,4441.0,Low
+Coal,1225,5291,12,Automobile,6016.73,Medium
+Natural Gas,415,1497,4,Chemical,1499.57,Low
+Natural Gas,1792,8271,11,Automobile,7333.52,Medium
+Coal,1003,4373,18,Textile,4945.75,Low
+Natural Gas,1004,9232,14,Manufacturing,6292.8,Medium
+Coal,543,5370,6,Manufacturing,4103.73,Low
+Coal,873,5417,9,Manufacturing,5069.85,Medium
+Natural Gas,1464,3946,8,Chemical,4655.95,Low
+Natural Gas,219,5502,11,Chemical,3029.55,Low
+Natural Gas,1666,5704,10,Textile,5874.8,Medium
+Coal,1627,8764,17,Chemical,8816.12,Medium
+Coal,1404,5889,20,Automobile,6812.72,Medium
+Diesel,956,1356,13,Textile,3206.18,Low
+Coal,142,3277,22,Textile,1962.69,Low
+Diesel,1160,8268,21,Textile,7036.1,Medium
+Coal,502,3518,24,Textile,3106.77,Low
+Diesel,1551,2253,21,Paper,5226.86,Medium
+Natural Gas,1356,1878,14,Chemical,3468.45,Low
+Diesel,731,3967,7,Manufacturing,3843.4,Low
+Coal,376,5830,16,Manufacturing,3844.61,Low
+Diesel,1921,2301,24,Manufacturing,6241.26,Medium
+Diesel,1028,4779,10,Chemical,5025.07,Medium
+Diesel,846,8681,5,Paper,6390.75,Medium
+Coal,1475,9422,24,Automobile,8693.95,Medium
+Coal,1438,5642,9,Paper,6792.63,Medium
+Diesel,1356,4779,4,Automobile,5904.11,Medium
+Coal,1195,6039,15,Paper,6286.23,Medium
+Coal,1211,7634,5,Paper,7089.61,Medium
+Diesel,1445,5918,4,Automobile,6683.65,Medium
+Coal,1863,7372,12,Manufacturing,8829.88,Medium
+Natural Gas,1016,3670,5,Paper,3673.65,Low
+Natural Gas,390,5436,23,Manufacturing,3323.1,Low
+Diesel,455,7310,12,Automobile,4691.65,Low
+Natural Gas,1670,3806,10,Textile,4980.85,Low
+Coal,1296,6175,10,Automobile,6639.68,Medium
+Diesel,420,5092,22,Chemical,3544.3,Low
+Diesel,1557,9106,21,Chemical,8498.11,Medium
+Natural Gas,1650,3732,8,Paper,4907.7,Low
+Diesel,952,9210,7,Manufacturing,6926.11,Medium
+Coal,210,1959,22,Paper,1531.12,Low
+Natural Gas,653,6905,14,Chemical,4520.57,Low
+Natural Gas,1803,4571,7,Paper,5596.92,Medium
+Diesel,1313,1638,24,Paper,4296.89,Low
+Coal,636,1764,9,Textile,2656.86,Low
+Diesel,1454,9816,18,Textile,8559.32,Medium
+Diesel,1291,4671,13,Paper,5678.6,Medium
+Coal,970,8196,13,Chemical,6667.3,Medium
+Diesel,863,886,17,Paper,2733.69,Low
+Natural Gas,1452,4111,7,Paper,4711.52,Low
+Natural Gas,1646,1316,23,Automobile,3752.5,Low
+Coal,281,3908,15,Paper,2659.96,Low
+Diesel,1424,2885,4,Paper,5186.69,Medium
+Coal,622,8438,14,Paper,5786.97,Medium
+Coal,941,7726,23,Textile,6361.11,Medium
+Diesel,1583,4501,19,Paper,6380.42,Medium
+Coal,594,8186,13,Textile,5587.19,Medium
+Diesel,1056,8516,11,Manufacturing,6875.18,Medium
+Natural Gas,1626,3933,23,Paper,4957.57,Low
+Natural Gas,1838,4218,13,Automobile,5495.75,Medium
+Coal,1497,1988,8,Manufacturing,5225.72,Medium
+Natural Gas,158,883,22,Paper,719.62,Low
+Coal,1691,6729,15,Chemical,8032.53,Medium
+Natural Gas,777,872,13,Textile,1890.5,Low
+Coal,1569,5999,7,Paper,7336.86,Medium
+Coal,339,8766,15,Chemical,5133.39,Medium
+Diesel,891,3728,6,Automobile,4158.68,Low
+Coal,1342,6650,5,Chemical,6996.87,Medium
+Coal,1210,5043,7,Automobile,5856.02,Medium
+Diesel,776,8876,14,Textile,6295.78,Medium
+Coal,1207,2714,22,Chemical,4741.17,Low
+Natural Gas,1966,4044,19,Automobile,5656.3,Medium
+Diesel,617,9240,20,Manufacturing,6042.56,Medium
+Diesel,1434,3644,23,Textile,5574.02,Medium
+Diesel,1707,3122,9,Chemical,6057.71,Medium
+Natural Gas,569,2711,21,Manufacturing,2368.82,Low
+Coal,803,4794,17,Paper,4573.73,Low
+Natural Gas,914,3263,6,Textile,3286.52,Low
+Diesel,1170,6230,11,Automobile,6094.85,Medium
+Coal,1490,9924,13,Paper,8975.3,Medium
+Diesel,582,9137,12,Chemical,5899.84,Medium
+Diesel,963,9675,7,Manufacturing,7176.47,Medium
+Coal,849,1816,8,Manufacturing,3290.74,Low

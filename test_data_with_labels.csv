@@ -1,0 +1,19 @@
+fuel_type,fuel_qty,energy_kwh,hours,industry_type,severity_level
+Coal,1188,2686,10,Automobile,Low
+Diesel,328,6099,18,Chemical,Low
+Coal,891,2208,19,Textile,Low
+Natural Gas,585,4919,17,Automobile,Low
+Coal,459,3765,11,Textile,Low
+Natural Gas,726,4143,9,Textile,Low
+Natural Gas,1275,7445,4,Chemical,Medium
+Coal,952,4793,4,Textile,Medium
+Natural Gas,570,2125,5,Automobile,Low
+Diesel,567,3135,13,Paper,Low
+Diesel,975,2093,10,Paper,Low
+Diesel,795,6130,4,Manufacturing,Low
+Natural Gas,1118,1474,12,Manufacturing,Low
+Natural Gas,921,5476,10,Paper,Medium
+Natural Gas,1729,2528,7,Manufacturing,Low
+Diesel,964,2436,8,Paper,Low
+Coal,1661,3043,14,Paper,Medium
+Coal,514,1815,13,Paper,Low
